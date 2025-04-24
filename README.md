@@ -22,7 +22,5 @@ Final Output: Perceptual Loss Optimization
 ---
 
 👨‍🎓 Team
-Yuvi 
-Prabhdip Singh 
-Ruhin Kaur Saini 
+Yuvi , Prabhdip Singh , Ruhin Kaur Saini 
 Supervisor: Mr. Harjot Singh
